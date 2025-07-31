@@ -19,7 +19,7 @@ This repository contains a KNIME workflow for analyzing and visualizing personal
 
 1. **Download or Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/personal-finances-knime.git
+   git clone https://github.com/Varun2045/personal-finances-knime.git
 
 1. **Open KNIME Analytics Platform**  
    - Download and install KNIME if you haven’t already from [here](https://www.knime.com/downloads).  
